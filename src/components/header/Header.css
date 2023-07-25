@@ -1,0 +1,15 @@
+.divHeader {
+  width: 100%;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  font-size: 44px;
+  color: orangered;
+}
+
+.ego {
+  font-size: 38px;
+}

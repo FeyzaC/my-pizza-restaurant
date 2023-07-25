@@ -1,0 +1,44 @@
+* {
+  /* background-image: url("https://t3.ftcdn.net/jpg/01/12/59/78/360_F_112597832_fB5xNl2iXDNIRBtyPTvmO5ACMHZNnRII.jpg"); */
+  background-color: whitesmoke;
+}
+
+.card {
+  width: 30%;
+  padding: 2rem;
+  margin: 4rem auto;
+  border-radius: 25px;
+  box-shadow: rgba(255, 68, 0, 0.915) 0px 3px 6px,
+    rgba(255, 68, 0, 0.915) 0px 3px 6px;
+}
+
+.cardImg {
+  width: 400px;
+  height: auto;
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+h2,
+h3,
+p {
+  font-family: "Dancing Script", cursive;
+}
+
+.btn {
+  margin: 1rem;
+  padding: 1rem;
+  color: orangered;
+  font-weight: 900;
+  border-radius: 30px;
+  border-color: orangered;
+}
+
+.btn:hover {
+  background-color: orangered;
+  color: whitesmoke;
+  cursor: pointer;
+}
